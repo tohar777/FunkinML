@@ -1,4 +1,4 @@
-# Friday Night Funkin' 
+# Friday Night Funkin' (ModLoadere)
 
 Friday Night Funkin' is a rhythm game. Built using HaxeFlixel for Ludum Dare 47.
 
@@ -19,9 +19,13 @@ Check out our [Contributing Guide](/docs/CONTRIBUTING.md) to learn how you can a
 
 # Modding
 
-Feel free to start learning to mod the game by reading our [documentation](https://funkincrew.github.io/funkin-modding-docs/) and guide to modding.
+~~Feel free to start learning to mod the game by reading our [documentation](https://funkincrew.github.io/funkin-modding-docs/) and guide to modding.~~
 
-# Credits and Special Thanks
+#### How is The Modding Different from others?
+unlike most mods which use a mod engine,FunkinML uses scripts(like in roblox which you can make the game in lua)which the game loads at start which can make mods much lighter by file size
+The Moddig API will soon be release
+
+# Original Credits and Special Thanks
 
 Full credits can be found in-game, or in the `credits.json` file which is located [here](https://github.com/FunkinCrew/funkin.assets/blob/main/exclude/data/credits.json).
 
@@ -46,3 +50,8 @@ Full credits can be found in-game, or in the `credits.json` file which is locate
 - [Tom Fulp](https://twitter.com/tomfulp) - For being a great guy and for Newgrounds
 - [JohnnyUtah](https://twitter.com/JohnnyUtahNG/) - Voice of Tankman
 - [L0Litsmonica](https://twitter.com/L0Litsmonica) - Voice of Mommy Mearest
+# ModLoader
+
+## ModLoader Programmer
+
+- [tohar777](https://github.com/tohar777) - Programmer
